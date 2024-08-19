@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial;
+  background: #f2f2f2;
+  padding: 200px;
+}
+header {
+  font-size: 40px;
+}
+
+.parent-box {
+  margin-top: 30px;
+  background: #dadada;
+  width: 1000px;
+  overflow: hidden;
+  padding: 10px;
+}
+
+.box {
+  height: 200px;
+  margin: 20px;
+  width: 200px;
+}
+
+.one {
+  float: right;
+}
+
+.two {
+  float: left;
+}
